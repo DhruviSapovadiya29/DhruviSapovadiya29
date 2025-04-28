@@ -19,6 +19,6 @@ Committed to delivering high-quality, efficient, and timely solutions.
 🌐 Let’s Connect:
 📧 Email: dhruvipatel2945@gmail.com
 
-🔗 LinkedIn Profile : [https://www.linkedin.com/in/dhruvi-sapovadiya-7b66272a5/]
+🔗 LinkedIn Profile : https://www.linkedin.com/in/dhruvi-sapovadiya-7b66272a5/
 
 Feel free to explore my repositories and get in touch!
